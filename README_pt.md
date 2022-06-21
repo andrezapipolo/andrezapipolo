@@ -6,7 +6,7 @@
 
 
 ## **Olá, me chamo Andreza Pipolo!**
-Sou uma estudante de programação na {Reprograma }que mora no Brasil. Estou em processo de migração de carreira com interesse em atuar como desenvolvedora back end. Possuo conhecimento em Git,Github, JavaScript e Node.JS e pretendo incluir TypeScript e Java em minhas skills. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
+Sou uma estudante de programação na {Reprograma}. Estou em processo de migração de carreira com interesse em atuar como desenvolvedora back end. Possuo conhecimento em Git,Github, JavaScript e Node.JS e pretendo incluir TypeScript e Java em minhas skills. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
 
 <img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="350"></h1>
 
