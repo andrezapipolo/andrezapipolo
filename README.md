@@ -37,8 +37,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrezapipolo&show_icons=true&locale=en&layout=compact" alt="andrezapipolo" /></p>
 
+
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrezapipolo&label=Profile%20views&color=0e75b6&style=flat" alt="andrezapipolo" /> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
