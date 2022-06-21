@@ -6,7 +6,7 @@
 
 
 ## **Hi, I'm Andreza Pipolo!**
- I am a programming student at {Reprograma} currently learning how to code. I am in the process of career migration with interest in working as a Back  End Developer. I have knowledge in Git, Github, JavaScript and Node.JS. I intend to include TypeScript and Java in my skills. Feel free to create a pull request to contribute to any of my repositories.
+ I’m from Recife - Brazil. I am a programming student at {Reprograma} currently learning how to code. I am in the process of career migration with interest in working as a Back  End Developer. I have knowledge in Git, Github, JavaScript and Node.JS. I intend to include TypeScript and Java in my skills. Feel free to create a pull request to contribute to any of my repositories.
 
 
 <img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="350"></h1>
