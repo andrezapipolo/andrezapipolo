@@ -9,15 +9,14 @@
  I am a programming student at {Reprograma} currently learning how to code. I am in the process of career migration with interest in working as a Back  End Developer. I have knowledge in Git, Github, JavaScript and Node.JS. I intend to include TypeScript and Java in my skills. Feel free to create a pull request to contribute to any of my repositories.
 
 
-<img align='right' src="https://media.giphy.com/media/X76je8FxhJvwKHS1Rf/giphy.gif" width="350"></h1>
-
+<img align='right' src="./images/dog.gif" width="350"></h1>
 
 
 - 🌱 I’m currently learning JavaScript, Node.js.
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrezapipolo?tab=repositories).
 
-- 💬 Talk to me about Memes🤭, Movies 🎞️,series 🍿, Super Mario 🎮, Photography 📸 and foods 🥢.
+- 💬 Talk to me about Memes🤭, Movies 🎞️,series 🍿, Super Mario 🎮, Photography 📸 and foods 🥢, pets 🐾.
 
 - ⚡️ Fun-Fact I have an MBA in strategic people management.
 

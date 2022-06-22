@@ -8,13 +8,13 @@
 ## **Olá, me chamo Andreza Pipolo!**
 Sou uma estudante de programação na {Reprograma}. Estou em processo de migração de carreira com interesse em atuar como desenvolvedora back end. Possuo conhecimento em Git,Github, JavaScript e Node.JS e pretendo incluir TypeScript e Java em minhas skills. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
 
-<img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="350"></h1>
+<img align='right' src="./images/dog.gif" width="350"></h1>
 
 - 🌱 Atualmente estou aprendendo JavaScript, Node.js.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/andrezapipolo?tab=repositories).
 
-- 💬 Fale comigo sobre Memes🤭, filmes 🎞️,séries 🍿, Super Mario 🎮, fotografias 📸 e comidas 🥢.
+- 💬 Fale comigo sobre Memes🤭, filmes 🎞️,séries 🍿, Super Mario 🎮, fotografias 📸 e comidas 🥢e pets🐾.
 
 - ⚡️ Curiosidade tenho MBA em gestão estratégica de pessoas.
 
