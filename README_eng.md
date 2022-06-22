@@ -20,9 +20,7 @@
 - ⚡️ Fun-Fact I have an MBA in strategic people management.
 
 - 📡 Find out more about me & feel free to connect with me<p align="left">
-<a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="40px"/></a>&nbsp;
-<a href="https://www.instagram.com/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="40px"/></a>&nbsp;
-<a href="https://open.spotify.com/user/andrezamenezes"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify" width="40px"/></a>
+<a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="40px"/></a>&nbsp;<a href="mailto:andreza_menezess@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="40px"/></a>&nbsp;<a href="https://stackoverflow.com/users/19394242/andreza-pipolo"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" width="40px"/></a>&nbsp;
 </p>
 
 ## ⛏️ Languages and Tools
