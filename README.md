@@ -14,13 +14,14 @@ Sou uma estudante de programação na {Reprograma}. Estou em processo de migraç
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/andrezapipolo?tab=repositories).
 
+- 📫 How to reach me<p align="left">
+<a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30px"/></a>&nbsp;&nbsp;&nbsp;&nbsp<a href="mailto:andreza_menezess@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19394242/andreza-pipolo"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" width="30px"/></a>&nbsp;&nbsp;&nbsp;
+</p>
+
 - 💬 Fale comigo sobre Memes🤭, filmes 🎞️,séries 🍿, Super Mario 🎮, fotografias 📸, comidas 🥢e pets🐾.
 
 - ⚡️ Curiosidade tenho MBA em gestão estratégica de pessoas.
 
-- 📡 Saiba mais sobre mim e sinta-se à vontade para se conectar comigo <p align="left">
-<a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="40px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:andreza_menezess@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="40px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19394242/andreza-pipolo"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" width="40px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 ## ⛏️ Linguagens e ferramentas
 </br>

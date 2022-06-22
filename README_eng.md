@@ -16,13 +16,13 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrezapipolo?tab=repositories).
 
-- 💬 Talk to me about Memes🤭, Movies 🎞️,series 🍿, Super Mario 🎮, Photography 📸, foods 🥢, pets 🐾.
+- 📫 How to reach me<p align="left">
+<a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30px"/></a>&nbsp;&nbsp;&nbsp;&nbsp<a href="mailto:andreza_menezess@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19394242/andreza-pipolo"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" width="30px"/></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+- 💬 Talk to me about Memes🤭, Movies 🎞️,series 🍿, Super Mario 🎮, Photography 📸, foods 🥢and pets 🐾.
 
 - ⚡️ Fun-Fact I have an MBA in strategic people management.
-
-- 📡 Find out more about me & feel free to connect with me <p align="left">
-<a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="40px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:andreza_menezess@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="40px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19394242/andreza-pipolo"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" width="40px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 ## ⛏️ Languages and Tools
 </br>
