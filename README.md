@@ -14,7 +14,7 @@ Sou uma estudante de programação na {Reprograma}. Estou em processo de migraç
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/andrezapipolo?tab=repositories).
 
-- 💬 Fale comigo sobre Memes🤭, filmes 🎞️,séries 🍿, Super Mario 🎮, fotografias 📸 e comidas 🥢e pets🐾.
+- 💬 Fale comigo sobre Memes🤭, filmes 🎞️,séries 🍿, Super Mario 🎮, fotografias 📸, comidas 🥢e pets🐾.
 
 - ⚡️ Curiosidade tenho MBA em gestão estratégica de pessoas.
 

@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrezapipolo?tab=repositories).
 
-- 💬 Talk to me about Memes🤭, Movies 🎞️,series 🍿, Super Mario 🎮, Photography 📸 and foods 🥢, pets 🐾.
+- 💬 Talk to me about Memes🤭, Movies 🎞️,series 🍿, Super Mario 🎮, Photography 📸, foods 🥢, pets 🐾.
 
 - ⚡️ Fun-Fact I have an MBA in strategic people management.
 
