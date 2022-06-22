@@ -44,4 +44,3 @@
 </p>
 
 
-<iframe src="https://giphy.com/embed/X76je8FxhJvwKHS1Rf" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oshie-thisiscorley-the-cockadoodle-X76je8FxhJvwKHS1Rf">via GIPHY</a></p>
