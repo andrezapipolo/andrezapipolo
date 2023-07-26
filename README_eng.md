@@ -6,13 +6,13 @@
 
 
 ## **Hi, I'm Andreza Pipolo!**
- I am a programming student at {Reprograma} currently learning how to code. I am in the process of career migration with interest in working as a Back  End Developer. I have knowledge in Git, Github, JavaScript and Node.JS. I intend to include TypeScript and Java in my skills. Feel free to create a pull request to contribute to any of my repositories.
+I'm a DevOps student through the Ser + Tech bootcamp, offered by Let´s Code By Ada in partnership with Nuclea, I was a student at the {Reprograma} bootcamp in back-end. I am in the process of career change with an interest in working with development and DevOps. Feel free to create a pull request to contribute to any of my repositories.
 
 
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
 
-- 🌱 I’m currently learning JavaScript, Node.js.
+- 🌱 I’m currently learning Linux, Python e AWS.
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrezapipolo?tab=repositories).
 
