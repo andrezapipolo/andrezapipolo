@@ -6,11 +6,11 @@
 
 
 ## **Olá, me chamo Andreza Pipolo!**
-Sou uma estudante de programação na {Reprograma}. Estou em processo de migração de carreira com interesse em atuar como desenvolvedora back end. Possuo conhecimento em Git,Github, JavaScript e Node.JS e pretendo incluir TypeScript e Java em minhas skills. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
+Sou estudante de DevOps através do programa bootcamp Ser + Tech, oferecido pela Let´s Code By Ada em parceria com a Nuclea, fui aluna no bootcamp da {Reprograma} em backend. Estou em processo de migração de carreira com interesse em atuar como desenvolvedora e DevOps. Possuo conhecimento em Git,Github, JavaScript, Node.JS. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
 
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
-- 🌱 Atualmente estou aprendendo JavaScript, Node.js.
+- 🌱 Atualmente estou aprendendo Linux, Python e AWS.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/andrezapipolo?tab=repositories).
 
