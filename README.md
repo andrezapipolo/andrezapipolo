@@ -6,7 +6,7 @@
 
 
 ## **Olá, me chamo Andreza Pipolo!**
-Sou estudante de DevOps através do programa bootcamp Ser + Tech, oferecido pela Let´s Code By Ada em parceria com a Nuclea, fui aluna no bootcamp da {Reprograma} em backend. Estou em processo de migração de carreira com interesse em atuar como desenvolvedora e DevOps. Possuo conhecimento em Git,Github, JavaScript, Node.JS. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
+Sou estudante de DevOps através bootcamp Ser + Tech, oferecido pela Let´s Code By Ada em parceria com a Nuclea, fui aluna no bootcamp da {Reprograma} em back-end. Estou em processo de migração de carreira com interesse em atuar como desenvolvimento e DevOps. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
 
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
