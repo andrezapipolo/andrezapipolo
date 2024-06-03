@@ -6,11 +6,11 @@
 
 
 ## **Olá, me chamo Andreza Pipolo!**
-Sou estudante de DevOps através bootcamp Ser + Tech, oferecido pela Let´s Code By Ada em parceria com a Nuclea, fui aluna no bootcamp da {Reprograma} em back-end. Estou em processo de migração de carreira com interesse em atuar como desenvolvimento e DevOps. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
+Autista, quase formada em Análise e desenvolvimento de sistemas, sou estudante da Academia Java pela multinacional Atos, fui estudante de DevOps através bootcamp Ser + Tech, oferecido pela Let´s Code By Ada em parceria com a Nuclea, fui aluna no bootcamp da {Reprograma} em back-end. Estou em processo de migração de carreira com interesse em atuar com desenvolvimento e qualidade de software (QA). Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.
 
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
-- 🌱 Atualmente estou aprendendo Linux, Python e AWS.
+- 🌱 Atualmente estou aprendendo qualidade de software (QA), Python e Java.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/andrezapipolo?tab=repositories).
 
@@ -19,16 +19,8 @@ Sou estudante de DevOps através bootcamp Ser + Tech, oferecido pela Let´s Code
 
 - 💬 Fale comigo sobre Memes🤭, filmes 🎞️,séries 🍿, Super Mario 🎮, fotografias 📸, comidas 🥢e pets🐾.
 
-- ⚡️ Curiosidade tenho MBA em gestão estratégica de pessoas.
+- ⚡️ Curiosidade sou formada em Administração e tenho MBA em gestão estratégica de pessoas.
 
-</br>
-
-
-## ⛏️ Linguagens e ferramentas
-</br>
-</br>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> </p></a></p>
-</br>
 </br>
 
 ## 📊 Estatísticas gitHub
