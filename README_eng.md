@@ -16,7 +16,7 @@ Autistic, almost graduated in Systems Analysis and Development, I am a student a
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrezapipolo?tab=repositories).
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:andreza_menezess@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19394242/andreza-pipolo"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" width="30px"/></a>
+- 📫 How to find me on <a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:andreza_menezess@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19394242/andreza-pipolo"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" width="30px"/></a>
 </p>
 
 - 💬 Talk to me about Memes🤭, Movies 🎞️,series 🍿, Super Mario 🎮, Photography 📸, foods 🥢and pets 🐾.
