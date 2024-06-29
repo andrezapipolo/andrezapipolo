@@ -12,16 +12,16 @@
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
 
-<p align="justify">- 🌱 I’m currently learning Software Quality (QA), Python and Java.</p>
+- 🌱 I’m currently learning Software Quality (QA), Python and Java.
 
-<p align="justify">- 👨‍💻 All of my projects are available at [Github](https://github.com/andrezapipolo?tab=repositories).</p>
+- 👨‍💻 All of my projects are available at [Github](https://github.com/andrezapipolo?tab=repositories).
 
-<p align="justify">- 📫 How to find me on <a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:andreza_menezess@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19394242/andreza-pipolo"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" width="30px"/></a>
-</p> </p>
+- 📫 How to find me on <a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:andreza_menezess@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19394242/andreza-pipolo"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" width="30px"/></a>
+</p> 
 
-<p align="justify">- 💬 Talk to me about Memes🤭, Movies 🎞️,series 🍿, Super Mario 🎮, Photography 📸, foods 🥢and pets 🐾</p>.
+- 💬 Talk to me about Memes🤭, Movies 🎞️,series 🍿, Super Mario 🎮, Photography 📸, foods 🥢and pets 🐾.
 
-<p align="justify">- ⚡️ Fun-Fact I have a degree in Administration and an MBA in strategic people management.</p>
+- ⚡️ Fun-Fact I have a degree in Administration and an MBA in strategic people management.
 </br>
 
 ## 📊 GitHub Stats
