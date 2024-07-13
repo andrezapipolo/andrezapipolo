@@ -12,7 +12,7 @@
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
 
-- 🌱 I’m currently learning Software Quality (QA) and Java.
+- 🌱 I’m currently learning Java and about Software Quality.
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrezapipolo?tab=repositories).
 
