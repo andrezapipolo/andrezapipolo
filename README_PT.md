@@ -10,7 +10,7 @@
 
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
-- 🌱 Atualmente estou aprendendo qualidade de software (QA), Python e Java.
+- 🌱 Atualmente estou aprendendo Java e sobre Qualidade de Software.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/andrezapipolo?tab=repositories).
 
