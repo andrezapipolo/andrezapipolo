@@ -6,7 +6,7 @@
 
 
 ## **Olá, me chamo Andreza Pipolo!**
-<p align="justify">Autista, quase formada em Análise e desenvolvimento de sistemas, sou estudante da Academia Java pela multinacional Atos, fui estudante de DevOps através bootcamp Ser + Tech, oferecido pela Let´s Code By Ada em parceria com a Nuclea, fui aluna no bootcamp da {Reprograma} em back-end. Estou em processo de migração de carreira com interesse em atuar com desenvolvimento e qualidade de software (QA). Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.</p>
+<p align="justify">Autista, quase formada em Análise e desenvolvimento de sistemas, Estou em processo de migração de carreira com interesse em atuar com desenvolvimento de software e qualidade de software (QA). Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.</p>
 
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
