@@ -6,13 +6,13 @@
 
 
 ## **Hi, I'm Andreza Pipolo!**
-<p align="justify">Autistic, almost graduated in Systems Analysis and Development, I am a student at the Java Academy by the multinational Atos, I was a DevOps student through the Ser + Tech bootcamp, offered by Let's Code By Ada in partnership with Nuclea, I was a student at the {Reprograma} bootcamp in back-end (Javascript). I am in the process of changing careers and am interested in working with software development and quality (QA). Feel free to create a pull request to contribute to any of my repositories.</p>
+<p align="justify">Autistic, almost graduated in Systems Analysis and Development, I am in the process of career transition with an interest in working in software development and software quality (QA). Feel free to create a pull request to contribute to any of my repositories.</p>
 
 
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
 
-- 🌱 I’m currently learning Software Quality (QA), Python and Java.
+- 🌱 I’m currently learning Software Quality (QA) and Java.
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrezapipolo?tab=repositories).
 
