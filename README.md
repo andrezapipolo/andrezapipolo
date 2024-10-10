@@ -6,13 +6,13 @@
 
 
 ## **Hi, I'm Andreza Pipolo!**
-<p align="justify">Autistic, almost graduated in Systems Analysis and Development, I am in the process of career transition with an interest in working in software development and software quality (QA). Feel free to create a pull request to contribute to any of my repositories.</p>
+<p align="justify">I am a Software Quality Assurance (QA) Test Analyst with one year of experience, and I currently work as a Test Automation Developer. Being autistic, I am extremely attentive to details. Feel free to create a pull request to contribute to any of my repositories.</p>
 
 
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
 
-- 🌱 I’m currently learning Java and about Software Quality.
+- 🌱 I’m currently learning Test Automation.
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrezapipolo?tab=repositories).
 
