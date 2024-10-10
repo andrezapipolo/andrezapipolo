@@ -6,11 +6,11 @@
 
 
 ## **Olá, me chamo Andreza Pipolo!**
-<p align="justify">Autista, quase formada em Análise e desenvolvimento de sistemas, Estou em processo de migração de carreira com interesse em atuar com desenvolvimento de software e qualidade de software (QA). Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.</p>
+<p align="justify">Sou Analista de Teste de Qualidade de Software (QA) com um ano de experiência e atualmente trabalho como Desenvolvedora de Automação de Testes. Sendo autista, sou super atenta aos detalhes. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.</p>
 
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
-- 🌱 Atualmente estou aprendendo Java e sobre Qualidade de Software.
+- 🌱 Atualmente estou aprendendo Automação de Testes.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/andrezapipolo?tab=repositories).
 
